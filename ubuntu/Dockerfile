@@ -6,4 +6,4 @@ FROM ubuntu:14.04
 
 MAINTAINER MrNull
 
-
+RUN sudo apt-get update
